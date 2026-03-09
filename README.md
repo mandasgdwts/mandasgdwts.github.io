@@ -794,11 +794,11 @@
         <div class="stat-label">Years Experience</div>
       </div>
       <div>
-        <div class="stat-num">50+</div>
+        <div class="stat-num">25+</div>
         <div class="stat-label">Happy Clients</div>
       </div>
       <div>
-        <div class="stat-num">25+</div>
+        <div class="stat-num">60+</div>
         <div class="stat-label">Projects Done</div>
       </div>
     </div>
