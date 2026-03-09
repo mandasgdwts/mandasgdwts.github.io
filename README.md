@@ -806,66 +806,7 @@
   </div>
 </section>
 
-<!-- PORTFOLIO -->
-<section class="portfolio" id="portfolio">
-  <div class="section-header fade-up" style="max-width:600px;">
-    <div class="section-tag">Selected Work</div>
-    <h2 class="section-title">Recent <em style="font-style:italic;color:var(--terracotta);">projects</em></h2>
-  </div>
-  <div class="portfolio-tabs">
-    <button class="portfolio-tab active" onclick="filterPortfolio('all', this)">All</button>
-    <button class="portfolio-tab" onclick="filterPortfolio('design', this)">Design</button>
-    <button class="portfolio-tab" onclick="filterPortfolio('writing', this)">Writing</button>
-    <button class="portfolio-tab" onclick="filterPortfolio('tutoring', this)">Tutoring</button>
-  </div>
-  <div class="portfolio-grid" id="portfolioGrid">
-    <div class="portfolio-item fade-up" data-cat="design">
-      <div class="portfolio-thumb" style="background:linear-gradient(135deg,#f5e6d3,#e8b89a);">
-        🌸
-        <div class="portfolio-thumb-overlay">View Project →</div>
-      </div>
-      <div class="portfolio-info">
-        <div class="portfolio-info-title">Flyer Design</div>
-        <div class="portfolio-info-cat">Brand Identity · Design</div>
-      </div>
-    </div>
-    <div class="portfolio-item fade-up" data-cat="writing">
-      <div class="portfolio-thumb" style="background:linear-gradient(135deg,#dce8f0,#a8c4d8);">
-        📰
-        <div class="portfolio-thumb-overlay">View Project →</div>
-      </div>
-      <div class="portfolio-info">
-        <div class="portfolio-info-title">Resume Creation</div>
-        <div class="portfolio-info-cat">Resume</div>
-      </div>
-    </div>
-    <div class="portfolio-item fade-up" data-cat="design">
-      <div class="portfolio-thumb" style="background:linear-gradient(135deg,#e8d5f0,#c4a8d8);">
-        ✨
-        <div class="portfolio-thumb-overlay">View Project →</div>
-      </div>
-      <div class="portfolio-info">
-        <div class="portfolio-info-title">Technical Writing White Paper</div>
-        <div class="portfolio-info-cat"> White Paper</div>
-      </div>
-    </div>
-    <div class="portfolio-item fade-up" data-cat="tutoring">
-      <div class="portfolio-thumb" style="background:linear-gradient(135deg,#d5f0e8,#a8d8c4);">
-        🎓
-        <div class="portfolio-thumb-overlay">View Project →</div>
-      </div>
-        <div class="portfolio-item fade-up" data-cat="writing">
-      <div class="portfolio-thumb" style="background:linear-gradient(135deg,#f0e8d5,#d8c4a8);">
-        🖋️
-        <div class="portfolio-thumb-overlay">View Project →</div>
-      </div>
-         <div class="portfolio-item fade-up" data-cat="design">
-      <div class="portfolio-thumb" style="background:linear-gradient(135deg,#f0d5d5,#d8a8a8);">
-        📱
-        <div class="portfolio-thumb-overlay">View Project →</div>
-      </div>
-      <div class="portfolio-info">
-      </section>
+
 
 <!-- TESTIMONIALS -->
 <section class="testimonials" id="testimonials">
