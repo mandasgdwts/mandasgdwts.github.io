@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
@@ -825,7 +825,7 @@
         <div class="portfolio-thumb-overlay">View Project →</div>
       </div>
       <div class="portfolio-info">
-        <div class="portfolio-info-title">Bloom Bakery Rebrand</div>
+        <div class="portfolio-info-title">Flyer Design</div>
         <div class="portfolio-info-cat">Brand Identity · Design</div>
       </div>
     </div>
@@ -835,8 +835,8 @@
         <div class="portfolio-thumb-overlay">View Project →</div>
       </div>
       <div class="portfolio-info">
-        <div class="portfolio-info-title">Coastal Living Magazine</div>
-        <div class="portfolio-info-cat">Feature Writing · Editorial</div>
+        <div class="portfolio-info-title">Resume Creation</div>
+        <div class="portfolio-info-cat">Resume</div>
       </div>
     </div>
     <div class="portfolio-item fade-up" data-cat="design">
@@ -845,8 +845,8 @@
         <div class="portfolio-thumb-overlay">View Project →</div>
       </div>
       <div class="portfolio-info">
-        <div class="portfolio-info-title">Lumina Event Posters</div>
-        <div class="portfolio-info-cat">Print Design · Illustration</div>
+        <div class="portfolio-info-title">Technical Writing White Paper</div>
+        <div class="portfolio-info-cat"> White Paper</div>
       </div>
     </div>
     <div class="portfolio-item fade-up" data-cat="tutoring">
