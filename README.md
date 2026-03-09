@@ -896,7 +896,7 @@
       </div>
       <div class="form-group">
         <label class="form-label">Email Address</label>
-        <input class="form-input" type="email" placeholder="your@email.com" required />
+        <input class="form-input" type="email" placeholder="mandasgdwts@gmail.com" required />
       </div>
       <div class="form-group">
         <label class="form-label">I'm interested in</label>
