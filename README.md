@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
@@ -791,15 +791,15 @@
     </p>
     <div class="about-stats">
       <div>
-        <div class="stat-num">7+</div>
+        <div class="stat-num">10+</div>
         <div class="stat-label">Years Experience</div>
       </div>
       <div>
-        <div class="stat-num">120+</div>
+        <div class="stat-num">50+</div>
         <div class="stat-label">Happy Clients</div>
       </div>
       <div>
-        <div class="stat-num">300+</div>
+        <div class="stat-num">25+</div>
         <div class="stat-label">Projects Done</div>
       </div>
     </div>
@@ -854,33 +854,18 @@
         🎓
         <div class="portfolio-thumb-overlay">View Project →</div>
       </div>
-      <div class="portfolio-info">
-        <div class="portfolio-info-title">HSC English Programme</div>
-        <div class="portfolio-info-cat">Tutoring · Curriculum Design</div>
-      </div>
-    </div>
-    <div class="portfolio-item fade-up" data-cat="writing">
+        <div class="portfolio-item fade-up" data-cat="writing">
       <div class="portfolio-thumb" style="background:linear-gradient(135deg,#f0e8d5,#d8c4a8);">
         🖋️
         <div class="portfolio-thumb-overlay">View Project →</div>
       </div>
-      <div class="portfolio-info">
-        <div class="portfolio-info-title">Artisan Coffee Brand Copy</div>
-        <div class="portfolio-info-cat">Copywriting · Brand Voice</div>
-      </div>
-    </div>
-    <div class="portfolio-item fade-up" data-cat="design">
+         <div class="portfolio-item fade-up" data-cat="design">
       <div class="portfolio-thumb" style="background:linear-gradient(135deg,#f0d5d5,#d8a8a8);">
         📱
         <div class="portfolio-thumb-overlay">View Project →</div>
       </div>
       <div class="portfolio-info">
-        <div class="portfolio-info-title">Social Media Suite</div>
-        <div class="portfolio-info-cat">Digital Design · Social Media</div>
-      </div>
-    </div>
-  </div>
-</section>
+      </section>
 
 <!-- TESTIMONIALS -->
 <section class="testimonials" id="testimonials">
@@ -937,14 +922,14 @@
         <div class="contact-method-icon">✉️</div>
         <div>
           <div class="contact-method-label">Email</div>
-          <div class="contact-method-value">hello@mandacreative.com</div>
+          <div class="contact-method-value">mandasgdwts@gmail.com</div>
         </div>
       </a>
       <a href="tel:+61400000000" class="contact-method">
         <div class="contact-method-icon">📞</div>
         <div>
           <div class="contact-method-label">Phone</div>
-          <div class="contact-method-value">+61 400 000 000</div>
+          <div class="contact-method-value">973-922-0783</div>
         </div>
       </a>
       <a href="#" class="contact-method">
@@ -1012,7 +997,7 @@
         <li><a href="#">Instagram</a></li>
         <li><a href="#">LinkedIn</a></li>
         <li><a href="#">Behance</a></li>
-        <li><a href="mailto:hello@mandacreative.com">Email Me</a></li>
+        <li><a href="mailto:mandasgdwts@gmail.com">Email Me</a></li>
       </ul>
     </div>
   </div>
