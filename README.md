@@ -858,7 +858,7 @@
     <h2 class="contact-headline">Let's make<br>something<br><em>wonderful</em></h2>
     <p class="contact-sub">Whether you have a project in mind or just want to explore the possibilities, I'd love to hear from you. No brief too big or too small.</p>
     <div class="contact-methods">
-      <a href="mailto:hello@mandacreative.com" class="contact-method">
+      <a href="mailto:mandasgdwts@gmail.com" class="contact-method">
         <div class="contact-method-icon">✉️</div>
         <div>
           <div class="contact-method-label">Email</div>
