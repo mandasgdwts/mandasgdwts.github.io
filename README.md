@@ -934,10 +934,7 @@
     <div>
       <div class="footer-col-title">Connect</div>
       <ul class="footer-links">
-        <li><a href="#">Instagram</a></li>
-        <li><a href="#">LinkedIn</a></li>
-        <li><a href="#">Behance</a></li>
-        <li><a href="mailto:mandasgdwts@gmail.com">Email Me</a></li>
+         <li><a href="mailto:mandasgdwts@gmail.com">Email Me</a></li>
       </ul>
     </div>
   </div>
